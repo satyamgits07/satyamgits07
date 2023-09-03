@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satyamgits07
+- 👋 Hi, I’m Satyam jain
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java / Javascript /DSA
 - 📫 How to reach me ...

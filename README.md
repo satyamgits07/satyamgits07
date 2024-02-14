@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java / Javascript /DSA
 - 📫 How to reach me ...
 -   linked in : - https://www.linkedin.com/in/satyam-jain-76290521b/
+-   instagram :- https://www.instagram.com/satyam_jain_07/
 
 <!---
 satyamgits07/satyamgits07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
